@@ -1,0 +1,33 @@
+body{
+    font-family: 'Bebas Neue', sans-serif;
+    margin: 0px;
+}
+.h1{
+    font-size: 0px;
+}
+.h3{
+    font-size: 60px;
+}
+
+.order{
+    text-align: center;
+}
+.orange-highlight{
+    color: orange;
+}
+.p{
+    color: dimgray;
+}
+.half-width{
+   width: 40%;
+   float: left;
+   margin-left: 5%;
+   padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.section{
+    hight:500px;
+    padding-button:50PX;
+}
